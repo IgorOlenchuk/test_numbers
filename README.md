@@ -13,3 +13,7 @@
     
 3. Скрипт работает постоянно для обеспечения обновления данных в онлайн режиме (необходимо учитывать, что строки в Google Sheets таблицу могут удаляться, добавляться и изменяться). **- Реализовано с помощью tgBota**
 
+**Ссылка на таблицу, доступ предоставлен для sales@numbersss.com:**
+https://docs.google.com/spreadsheets/d/1hJefBQmQ-r5YHXRKJxxy_26IA2ZlduuKA5-9BEkQ2IA/edit?usp=sharing
+![img.png](img.png)
+![img_1.png](img_1.png)
